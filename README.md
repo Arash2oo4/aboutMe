@@ -28,6 +28,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://icons8.com/icon/vEiU8UeAmv0x/sass-avatar"/> </a> 
     
 </p>
 
