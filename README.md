@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm arash latifi</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Front-End Developer from iran.
+</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working at **[LFWF Academy](https://www.lfwfacademy.com)**
 
-- 🌱 I’m currently learning **Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.**
+- 🌱 I’m currently learning **React js , Next js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://developernaimul.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://arashlatifi.ir/projects/)**
 
-- 📫 How to reach me **developernaimul@gmail.com**
+- 📫 How to reach me **arashDevArsts@gmail.com**
 
 - ⚡ Fun fact **I play games and love to hang out during the holidays.**
 
